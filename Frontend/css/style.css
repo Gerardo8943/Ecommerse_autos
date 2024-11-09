@@ -1,0 +1,24 @@
+.ltext-101 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 39px;
+    line-height: 1.2857;
+    color: #333;
+  }
+
+
+  .ltext-201 {
+    font-family: 'Playfair Display', serif;
+    font-size: 60px;
+    line-height: 1.1;
+    text-transform: uppercase;
+    color: #333;
+  }
+
+  
+  .stext-101 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    line-height: 1.466667;
+    text-transform: uppercase;
+    color: #fff;
+  }
