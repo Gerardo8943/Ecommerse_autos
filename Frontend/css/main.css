@@ -3098,8 +3098,8 @@ input.num-product::-webkit-inner-spin-button {
 
 /*---------------------------------------------*/
 .hov-btn3:hover {
-  border-color: #717fe0;
-  background-color: #717fe0;
+  border-color: #fd0f23;
+  background-color: #fd0f23;
   color: #fff;
 }
 
@@ -3350,3 +3350,4 @@ input.num-product::-webkit-inner-spin-button {
   object-fit: cover;
   object-position: center;
 }
+
