@@ -2642,7 +2642,7 @@ input.num-product::-webkit-inner-spin-button {
    BACKGROUND BACKGROUND BACKGROUND BACKGROUND BACKGROUND BACKGROUND 
 ==================================================================*/
 .bg-none {background-color: transparent;}
-.bg0 {background-color: #fff;}
+.bg0 {background-color: #ffffff;}
 .bg1 {background-color: #f31225;}
 .bg2 {background-color: #e6e6e6;}
 .bg3 {background-color: #222;}
@@ -2651,6 +2651,7 @@ input.num-product::-webkit-inner-spin-button {
 .bg7 {background-color: #333;}
 .bg8 {background-color: #f3f3f3;}
 .bg9 {background-color: rgba(255,255,255,0.9);}
+.bg10 {background-color: #e72222;}
 
 /*---------------------------------------------*/
 .bg-overlay1::before {
